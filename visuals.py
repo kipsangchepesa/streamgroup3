@@ -20,7 +20,7 @@ import plotly.graph_objects as go
 
 """# Reading csv dataset on the BBI Knowledge"""
 
-df1=pd.read_csv('streaBBI_Knowledge.csv')
+df1=pd.read_csv('BBI_Knowledge.csv')
 df1
 
 """# Visualization."""
