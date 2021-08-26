@@ -11,12 +11,12 @@ Original file is located at
 
 import pandas as pd 
 import numpy as np
-import seaborn as sns
+#import seaborn as sns
 import streamlit as st
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 """# Reading csv dataset on the BBI Knowledge"""
 
